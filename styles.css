@@ -147,7 +147,7 @@ img#robo{
             font-weight: 500;
 }
 #quiz-screen .indicator div div, #start-screen .indicator div div{
-        padding:0 0.15rem
+        padding:0 0.15vh;
 }
 
 #background-shape {
@@ -267,7 +267,7 @@ button {
             justify-content: flex-start;
             color: white;
             text-align: center;
-            padding: 0% 8.5%;
+            padding: 0% 4.5vh;
             z-index: 999;
 }
 
