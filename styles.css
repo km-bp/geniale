@@ -15,12 +15,12 @@
 }
 @font-face {
   font-family: 'Noto Sans';
-  src: url("font/NotoSans-Medium.ttf");
+  src: url("/font/NotoSans-Medium.ttf");
   font-weight: 500;
 }
 @font-face {
   font-family: 'Noto Sans';
-  src: url("font/NotoSans-SemiBold.ttf");
+  src: url("./font/NotoSans-SemiBold.ttf");
   font-weight: 600;
 }
 @font-face {
